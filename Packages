@@ -6,7 +6,7 @@ Description: More Bladient Icons
 Maintainer: DuckTheCow
 Author: DuckTheCow
 Section: Theme
-Depends: Snowboard Themeing Engine
+Depends: com.spark.snowboard
 Filename: debs/com.duckthecow.bladientplusplus_1.2_iphoneos-arm.deb
 Size: 508554
 MD5sum: 9445e74d5bfd4cc168bed295ec54d1db
