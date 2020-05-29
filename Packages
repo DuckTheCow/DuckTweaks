@@ -1,1 +1,14 @@
-
+Package: com.duckthecow.bladientplusplus_1.2
+Name: Bladient++
+Version: 1.2
+Architecture: iphoneos-arm
+Description: More Bladient Icons
+Maintainer: DuckTheCow
+Author: DuckTheCow
+Section: Theme
+Depends: Snowboard Themeing Engine
+Filename: debs/com.duckthecow.bladientplusplus_1.2_iphoneos-arm.deb
+Size: 508554
+MD5sum: 9445e74d5bfd4cc168bed295ec54d1db
+SHA1: 785d67a9fd2f56593aadb5b6bc4236eabc50a14c
+SHA256: 421f7b08c12861d3f3eb6c560e1d2978dce69850c2a443835ed78ec9c6c57acc
